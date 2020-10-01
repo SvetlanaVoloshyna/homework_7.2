@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    border: 24px solid #2782ae;
+    background-color: #2f9acd;
+    color: #ffffff;
+    margin: 0 auto;
+    font-family: "Lucida Sans Unicode";
+}
+.container{
+    margin: 0 auto;
+    max-width: 984px;
+}
+header{
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+main{
+    border: 6px solid #ffffff;
+    margin-bottom: 35px;
+}
+.list-of_cities{
+    list-style: none;
+    text-align: center;
+    font-size: 0;
+}
+.list-of_cities>li{
+    display: inline-block;
+    height: 148px;
+    padding-top: 35px;
+}
+.text{
+    font-size: 30px;
+    display: inline-block;
+}
+.icon{
+    padding-top: 5px;
+}
+.wi{
+    margin: 0 5px;
+}
+h3{
+    margin-bottom: 139px;
+}
+.lisbon{
+    width: 50%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+}
+.paris{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color: #2fcdcd;
+}
+.belgrade{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    background-color: #9a669a;
+}
+.moscov{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color:#c34545;
+}
+.tel-aviv{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color: #e36749;
+}
+.cair{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color: #ffcd66;
+}
+.new-york{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    background-color: #9acd9a;
+}
+.new-delhi{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color:#669a9a;
+}
+.san-francisco{
+    width: 50%;
+    border-bottom: 6px solid #ffffff;
+    border-right: 6px solid #ffffff;
+    background-color:#cd669a;
+}
+.tokyo{
+    width: 25%;
+    border-bottom: 6px solid #ffffff;
+    background-color:#2f9a66;
+}
+.sydney{
+    width: 100%;
+    background-color: #66669a;
+}
