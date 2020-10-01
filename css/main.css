@@ -7,10 +7,11 @@ body{
     border: 24px solid #2782ae;
     background-color: #2f9acd;
     color: #ffffff;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     font-family: "Lucida Sans Unicode";
 }
 .container{
+    padding-top: 37px;
     margin: 0 auto;
     max-width: 984px;
 }
